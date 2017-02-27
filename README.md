@@ -1,2 +1,2 @@
 # adibet-scraper
-Adibet.com bets scraper 
+This is very simple srcaper for adibet.com. It's writen in python 2.7 and it grap matches print them and store them in databse. Scraper was created as request from my friend.
